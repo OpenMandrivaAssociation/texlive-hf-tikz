@@ -1,12 +1,12 @@
-# revision 27457
+# revision 29278
 # category Package
 # catalog-ctan /graphics/pgf/contrib/hf-tikz
-# catalog-date 2012-08-19 10:23:26 +0200
+# catalog-date 2013-03-03 12:29:02 +0100
 # catalog-license lppl1.3
-# catalog-version 0.1
+# catalog-version 0.3
 Name:		texlive-hf-tikz
-Version:	0.1
-Release:	2
+Version:	0.3
+Release:	1
 Summary:	A simple way to highlight formulas and formula parts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz
@@ -35,9 +35,11 @@ parts in both documents and presentations, us TikZ.
 %files
 %{_texmfdistdir}/tex/latex/hf-tikz/hf-tikz.sty
 %doc %{_texmfdistdir}/doc/latex/hf-tikz/README
+%doc %{_texmfdistdir}/doc/latex/hf-tikz/README.txt
 %doc %{_texmfdistdir}/doc/latex/hf-tikz/hf-tikz.pdf
 #- source
 %doc %{_texmfdistdir}/source/latex/hf-tikz/hf-tikz.dtx
+%doc %{_texmfdistdir}/source/latex/hf-tikz/hf-tikz.ins
 
 #-----------------------------------------------------------------------
 %prep
