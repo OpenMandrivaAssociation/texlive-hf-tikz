@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-hf-tikz
 Version:	0.1
-Release:	2
+Release:	3
 Summary:	A simple way to highlight formulas and formula parts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz
