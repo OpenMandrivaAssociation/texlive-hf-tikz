@@ -1,6 +1,6 @@
 Name:		texlive-hf-tikz
 Version:	34733
-Release:	1
+Release:	2
 Summary:	A simple way to highlight formulas and formula parts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz
